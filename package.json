@@ -10,7 +10,6 @@
         "sass": "node-sass --watch scss/main.scss css/style.css --source-map css/style.css.map"
     },
     "dependencies": {
-        "moment": "^2.29.1",
         "next": "^10.0.6",
         "node-sass": "^5.0.0",
         "react": "^17.0.1",
