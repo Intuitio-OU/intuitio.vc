@@ -1,6 +1,23 @@
 {
   "/_app": "pages/_app.js",
+  "/about-us-1": "pages/about-us-1.js",
+  "/api/hello": "pages/api/hello.js",
+  "/blank": "pages/blank.js",
+  "/blog-details-1": "pages/blog-details-1.js",
+  "/blog-large-right-sidebar": "pages/blog-large-right-sidebar.js",
+  "/coming-soon": "pages/coming-soon.js",
+  "/contact-us-1": "pages/contact-us-1.js",
+  "/error-404": "pages/error-404.js",
+  "/faq-1": "pages/faq-1.js",
+  "/": "pages/index.js",
+  "/index_org": "pages/index_org.js",
+  "/pricing-table-1": "pages/pricing-table-1.js",
+  "/services-1": "pages/services-1.js",
+  "/services-details-1": "pages/services-details-1.js",
+  "/sitedown": "pages/sitedown.js",
+  "/team-1": "pages/team-1.js",
+  "/test": "pages/test.js",
+  "/test2": "pages/test2.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/_document": "pages/_document.js"
 }
