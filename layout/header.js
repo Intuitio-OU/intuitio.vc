@@ -15,14 +15,14 @@ function Header() {
 
                         {/* <!-- Website Logo --> */}
                         <div className="logo-header mostion logo-dark">
-                        <h1 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp"> INTUITIO <span className="text-primary"> Ventures</span></h1>
-                       {/*  <Link href="/"><a><img src="images/logo.png" alt=""/></a></Link>*/}
+                        <h3 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp"><Link href="/"><a><img src="images/logo0.png" alt=""/></a></Link>IntuitioVCs</h3>
+                       {/*  <Link href="/"><a><img src="images/logo0.png" alt=""/></a></Link>*/}
                         </div>
                         {/* <!-- Nav Toggle Button --> */}
                         <button className={`navbar-toggler collapsed navicon justify-content-end ${show ? "open" : ""}`} onClick={() => setShow(!show)}>
                             <span></span>
                             <span></span>
-                            <span></span>
+
                         </button>
                         {/* <!-- Extra Nav --> */}
 
@@ -33,7 +33,6 @@ function Header() {
                             <ul className="nav navbar-nav navbar">	
 
 
-                            </ul>
                             <div className="dlab-social-icon">
                                 <ul>
                                     <Link href="https://en-gb.facebook.com/"><a className="fa fa-facebook"></a></Link>
@@ -41,7 +40,8 @@ function Header() {
                                     <Link href="https://www.linkedin.com/login"><a className="fa fa-linkedin"></a></Link>
                                     <Link href="https://www.instagram.com/"><a className="fa fa-instagram"></a></Link>
                                 </ul>
-                            </div>		
+                            </div>
+                            </ul>
                         </div>
                     </div>
                 </div>

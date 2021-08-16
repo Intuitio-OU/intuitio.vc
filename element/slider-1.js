@@ -15,8 +15,8 @@ function Slider1 () {
 							<div className="banner-content">
 								<h6 data-wow-duration="1s" data-wow-delay="0.5s" className="wow fadeInUp sub-title text-primary">We Create Ventures from Unique Ideas</h6>
 								<h1 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp ">Build Stunning <span className="text-primary">Ventures</span> With Best Team</h1>
-								<p  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp m-b30">Intuitio Ventures is launching a 5 MM Euro angel fund internationally, by leveraging on the Estonian E-Residency program, to fund technology startups in Europe, Middle East
-                                                                                                                  & Africa solving Industry 4.0 challenges with a combined 50 years expertise in tech, startup, finance & investment our team brings to the table.</p>
+								<p  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp m-b30"> 	"Intuitio Ventures is launching a venture studio to build AI, mobility & smart-industry startups in EMEA. The Founders built & globally scaled 6 companies up to 10X valuation, led the community for a $60MM VC fund.
+                                                                                                                   By leveraging on our network of strategic contacts and industry experience LP's can benefit from our support to CEO's in innovation, growth & exit strategy to build stunning ventures while achieving sustainable returns ”</p>
 								<Link href="about-us-1" ><a  data-wow-duration="1.6s" data-wow-delay="2s" className="wow fadeInUp btn btn-link d-inline-flex align-items-center" ><i className="fa fa-angle-right m-r10"></i>Learn More</a></Link>
 							</div>
 						</div>
