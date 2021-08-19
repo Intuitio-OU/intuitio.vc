@@ -44,9 +44,11 @@ ul {
 }
 img {
     border-style: none;
-    height: auto;
+    height: 100px;
     max-width: 100%;
     vertical-align: middle;
+    position: relative;
+    
 }
 li {
     list-style: none;

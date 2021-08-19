@@ -5,14 +5,14 @@
     "scripts": {
         "dev": "next dev -p 80",
         "build": "next build",
-        "start": "next dev",
+        "start": "next dev -p 80",
         "export": "npm run build && next export -o _static",
         "sass": "node-sass --watch scss/main.scss css/style.css --source-map css/style.css.map"
     },
     "dependencies": {
         "moment": "^2.29.1",
         "next": "^11.1.0",
-        "node-sass": "^5.0.0",
+        "node-sass": "^6.0.1",
         "react": "^17.0.2",
         "react-bootstrap": "^1.5.0",
         "react-countup": "^4.3.3",
